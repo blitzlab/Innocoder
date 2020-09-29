@@ -8,6 +8,7 @@
 
 /* FONT
 ================================================== */
+
 @font-face {
   font-family: 'fontello';
   src: url('../fonts/fontello.eot?37927580');
@@ -19,6 +20,8 @@
   font-weight: normal;
   font-style: normal;
 }
+
+
 
  [class^="icon-"]:before, [class*=" icon-"]:before {
   font-family: "fontello";
@@ -578,4 +581,32 @@ a.icon-up-bg:hover {color: #212121;}
 
 img#service-icon {
     width: 100px;
+}
+
+.col-md-6.text-right {
+    width: 52%;
+    overflow: hidden;
+}
+
+.welcome-note{
+  font-family: 'David Libre', serif;
+  font-weight: bold;
+}
+
+.job-title{
+  font-family: 'David Libre', serif;
+  font-size: 32px;
+}
+
+.dev-name{
+  font-family: 'David Libre', serif;
+  /* font-size: 32px; */
+}
+
+.about{
+font-family: 'David Libre', serif;
+}
+
+.service h4, .service p{
+  font-family: 'Montserrat', sans-serif;
 }

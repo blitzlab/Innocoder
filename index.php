@@ -42,6 +42,8 @@
 
     <![endif]-->
 
+    <link href="https://fonts.googleapis.com/css2?family=David+Libre&family=Montserrat:wght@300&display=swap" rel="stylesheet">
+
 </head>
 <body>
 
@@ -83,10 +85,10 @@
             <div class="row">
 
                 <div class="col-md-6">
-                    <h1>Owolabi Badmus</h1>
+                    <h1 class="dev-name">Owolabi Badmus</h1>
                     <div class="page-scroll">
                       <p class="job-title">Software Developer</p>
-                      <p class="">Are you a business owner planning to build result-driven apps for your business? or do you need a professional developer to join your amazing team?</p>
+                      <p class="welcome-note">Are you a business owner planning to build result-driven apps for your business? or do you need a professional developer to join your amazing team?</p>
                         <a href="#contact" class="btn btn-fill ">Hire me</a>
                         <div class="clearfix visible-xxs"></div>
                         <a href="#portfolio" class="btn btn-border">Explore more</a>
@@ -94,7 +96,7 @@
                 </div>
 
                 <div class="col-md-6 text-right">
-                    <img src="assets/img/new-bg.png" alt="alex-vidal">
+                    <img src="assets/img/portfolio-head.jpg" alt="alex-vidal">
                 </div>
 
             </div>
@@ -107,10 +109,10 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-md-offset-3">
-                        <h2>About</h2>
+                        <h2 class="about">About</h2>
                         <img src="assets/img/lines.svg" class="img-lines" alt="lines">
                         <!-- <p>Hello! I'm Alex, a full stuck developer, a Ruby enthusiast, and a guy slighty obsessed for code quality. Also I'm a co-founder of pykod.com. I’m currently available for freelance work. If you have a project that you want to get started or think you need my help with something, then get in touch.</p> -->
-                        <p>An Innovative developer that finds pleasure in building solutions that makes life easier and open minds to greater opportunities ahead.</p>
+                        <p class="about">An Innovative developer that finds pleasure in building solutions that makes life easier and open minds to greater opportunities ahead.</p>
                         <a href="http://www.grad.illinois.edu/sites/default/files/pdfs/cvsamples.pdf" class="btn btn-fill" target="_blank" download>Download my cv</a>
                     </div>
                 </div>

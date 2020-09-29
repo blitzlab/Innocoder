@@ -91,20 +91,24 @@ $(function() {
         $.post("ajax/contact.php",
         $("form").serialize(),
             function(data, status){
-              alert(data);
-              if(data === 1){
               Swal.fire({
-                title: 'Message sent!',
-                icon: 'success',
-                text: "We will reply as soon as possible",
-              });
-          }else {
-            Swal.fire({
-              title: 'Message not sent!',
-              icon: 'error',
-              text: "We were unable to proccess yor message",
-            });
-          }
+                 title: 'Message sent!',
+                 icon: 'success',
+                 text: "We will reply as soon as possible",
+               });
+          //     if(data == 1){
+          //     Swal.fire({
+          //       title: 'Message sent!',
+          //       icon: 'success',
+          //       text: "We will reply as soon as possible",
+          //     });
+          // }else {
+          //   Swal.fire({
+          //     title: 'Message not sent!',
+          //     icon: 'error',
+          //     text: "We were unable to proccess yor message",
+          //   });
+          // }
         });
     })
 });
