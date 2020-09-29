@@ -91,6 +91,7 @@ $(function() {
         $.post("ajax/contact.php",
         $("form").serialize(),
             function(data, status){
+              alert(data);
               if(data === 1){
               Swal.fire({
                 title: 'Message sent!',
