@@ -9,11 +9,11 @@ $to = 'idea@innocoder.tech';
 
 $subject = 'Contact Message';
 
-$headers = "From: " . $name . "\r\n";
+$headers = "From: ".$name."<". $email .">\r\n";
 $headers .= "Reply-To: ". $email . "\r\n";
 $headers .= "CC: temitopebdms@gmail.com\r\n";
 $headers .= "MIME-Version: 1.0\r\n";
-$headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
+$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 
 $message = '<html><body>';
 $message .= '<img src="../assets/img/logo.png" alt="logo" />';
