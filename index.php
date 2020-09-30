@@ -23,8 +23,8 @@
 
     <!-- Favicon
     ================================================== -->
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon.png">
+    <!-- <link rel="apple-touch-icon" sizes="180x180" href="https://innocoder.s3.amazonaws.com/img/apple-touch-icon.png"> -->
+    <link rel="icon" type="image/png" sizes="16x16" href="https://innocoder.s3.amazonaws.com/img/favicon.png">
 
     <!-- Stylesheets
     ================================================== -->
@@ -58,7 +58,7 @@
                         <span class="icon-bar"></span>
                     </button>
 
-                    <a href="#hero" class="site-logo"><img src="assets/img/logo.png" alt="logo"></a>
+                    <a href="#hero" class="site-logo"><img src="https://innocoder.s3.amazonaws.com/img/logo.png" alt="logo"></a>
 
                 </div><!-- /.navbar-header -->
 
@@ -96,7 +96,7 @@
                 </div>
 
                 <div class="col-md-6 text-right">
-                    <img src="assets/img/portfolio-head.jpg" alt="alex-vidal">
+                    <img src="https://innocoder.s3.amazonaws.com/img/portfolio-head.jpg" alt="alex-vidal">
                 </div>
 
             </div>
@@ -110,7 +110,7 @@
                 <div class="row">
                     <div class="col-md-6 col-md-offset-3">
                         <h2 class="about">About</h2>
-                        <img src="assets/img/lines.svg" class="img-lines" alt="lines">
+                        <img src="https://innocoder.s3.amazonaws.com/img/lines.svg" class="img-lines" alt="lines">
                         <!-- <p>Hello! I'm Alex, a full stuck developer, a Ruby enthusiast, and a guy slighty obsessed for code quality. Also I'm a co-founder of pykod.com. I’m currently available for freelance work. If you have a project that you want to get started or think you need my help with something, then get in touch.</p> -->
                         <p class="about">An Innovative developer that finds pleasure in building solutions that makes life easier and open minds to greater opportunities ahead.</p>
                         <a href="http://www.grad.illinois.edu/sites/default/files/pdfs/cvsamples.pdf" class="btn btn-fill" target="_blank" download>Download my cv</a>
@@ -123,7 +123,7 @@
             <div class="container">
                 <div class="text-center">
                     <h3>My Skills</h3>
-                    <img src="assets/img/lines.svg" class="img-lines" alt="lines">
+                    <img src="https://innocoder.s3.amazonaws.com/img/lines.svg" class="img-lines" alt="lines">
                 </div>
                 <div class="row">
                     <div class="col-md-4">
@@ -177,25 +177,25 @@
                 <div class="row">
                     <div class="col-md-12">
                         <h3>What i do</h3>
-                        <img src="assets/img/lines.svg" class="img-lines" alt="lines">
+                        <img src="https://innocoder.s3.amazonaws.com/img/lines.svg" class="img-lines" alt="lines">
                     </div>
                     <div class="col-sm-4">
                         <div class="service">
-                            <img src="assets/img/browser.svg" id="service-icon" alt="Web Developer">
+                            <img src="https://innocoder.s3.amazonaws.com/img/browser.svg" id="service-icon" alt="Web Developer">
                             <h4>Web Development</h4>
                             <p>With my experience of multiple technologies, i will choose the best tools to build fast and robust web applications for your business.</p>
                         </div><!-- /.service -->
                     </div>
                     <div class="col-sm-4">
                         <div class="service">
-                            <img src="assets/img/mobile.svg" id="service-icon" alt="Mobile Developer">
+                            <img src="https://innocoder.s3.amazonaws.com/img/mobile.svg" id="service-icon" alt="Mobile Developer">
                             <h4>Mobile Development</h4>
                             <p>We can help turn your shallow idea into a full-fledged mobile application with cross-platform compatibility features.</p>
                         </div><!-- /.service -->
                     </div>
                     <div class="col-sm-4">
                         <div class="service">
-                            <img src="assets/img/consultation.svg" id="service-icon" alt="Coding">
+                            <img src="https://innocoder.s3.amazonaws.com/img/consultation.svg" id="service-icon" alt="Coding">
                             <h4>Consultancy</h4>
                             <p>As well as providing development services, I can also help you decide strategic roadmaps via consultancy services.</p>
                         </div><!-- /.service -->
@@ -208,22 +208,22 @@
             <div class="container">
                 <div class="text-center">
                     <h3>My recent Works</h3>
-                    <img src="assets/img/lines.svg" class="img-lines" alt="lines">
+                    <img src="https://innocoder.s3.amazonaws.com/img/lines.svg" class="img-lines" alt="lines">
                 </div>
                 <div class="row">
                     <div class="col-md-4 col-xs-6">
                         <div class="portfolio-item">
-                            <img src="assets/img/portfolio-1.jpg" class="img-res" alt="">
+                            <img src="https://innocoder.s3.amazonaws.com/img/kbimhome.png" class="img-res" alt="">
                             <div class="portfolio-item-info">
-                                <h4>Project Title</h4>
-                                <a href="#" data-toggle="modal" data-target="#portfolioItem1"><span class="glyphicon glyphicon-eye-open"></span></a>
-                                <a href="#"><span class="glyphicon glyphicon-link"></span></a>
+                                <h4>Kunwafobim</h4>
+                                <a href="https://kunwafobim.com/" target="-_blank" data-toggle="modal" data-target="#portfolioItem1"><span class="glyphicon glyphicon-eye-open"></span></a>
+                                <a href="https://kunwafobim.com/" target="_blank"><span class="glyphicon glyphicon-link"></span></a>
                             </div><!-- /.portfolio-item-info -->
                         </div><!-- /.portfolio-item -->
                     </div>
                     <div class="col-md-4 col-xs-6">
                         <div class="portfolio-item">
-                            <img src="assets/img/portfolio-2.jpg" class="img-res" alt="">
+                            <img src="https://innocoder.s3.amazonaws.com/img/portfolio-2.jpg" class="img-res" alt="">
                             <div class="portfolio-item-info">
                                 <h4>Project Title</h4>
                                 <a href="#" data-toggle="modal" data-target="#portfolioItem2"><span class="glyphicon glyphicon-eye-open"></span></a>
@@ -233,7 +233,7 @@
                     </div>
                     <div class="col-md-4 col-xs-6">
                         <div class="portfolio-item">
-                            <img src="assets/img/portfolio-3.jpg" class="img-res" alt="">
+                            <img src="https://innocoder.s3.amazonaws.com/img/portfolio-3.jpg" class="img-res" alt="">
                             <div class="portfolio-item-info">
                                 <h4>Project Title</h4>
                                 <a href="#" data-toggle="modal" data-target="#portfolioItem3"><span class="glyphicon glyphicon-eye-open"></span></a>
@@ -243,7 +243,7 @@
                     </div>
                     <div class="col-md-4 col-xs-6">
                         <div class="portfolio-item">
-                            <img src="assets/img/portfolio-4.jpg" class="img-res" alt="">
+                            <img src="https://innocoder.s3.amazonaws.com/img/portfolio-4.jpg" class="img-res" alt="">
                             <div class="portfolio-item-info">
                                 <h4>Project Title</h4>
                                 <a href="#" data-toggle="modal" data-target="#portfolioItem4"><span class="glyphicon glyphicon-eye-open"></span></a>
@@ -253,7 +253,7 @@
                     </div>
                     <div class="col-md-4 col-xs-6">
                         <div class="portfolio-item">
-                            <img src="assets/img/portfolio-5.jpg" class="img-res" alt="">
+                            <img src="https://innocoder.s3.amazonaws.com/img/portfolio-5.jpg" class="img-res" alt="">
                             <div class="portfolio-item-info">
                                 <h4>Project Title</h4>
                                 <a href="#" data-toggle="modal" data-target="#portfolioItem5"><span class="glyphicon glyphicon-eye-open"></span></a>
@@ -263,7 +263,7 @@
                     </div>
                     <div class="col-md-4 col-xs-6">
                         <div class="portfolio-item">
-                            <img src="assets/img/portfolio-6.jpg" class="img-res" alt="">
+                            <img src="https://innocoder.s3.amazonaws.com/img/portfolio-6.jpg" class="img-res" alt="">
                             <div class="portfolio-item-info">
                                 <h4>Project Title</h4>
                                 <a href="#" data-toggle="modal" data-target="#portfolioItem6"><span class="glyphicon glyphicon-eye-open"></span></a>
@@ -298,7 +298,7 @@
             <div class="container">
 
                 <h3>Contact</h3>
-                <img src="assets/img/lines.svg" class="img-lines" alt="lines">
+                <img src="https://innocoder.s3.amazonaws.com/img/lines.svg" class="img-lines" alt="lines">
                 <form id="contact">
                     <div class="row">
                         <div class="col-sm-6">
@@ -343,14 +343,14 @@
         <div class="modal-content">
           <div class="modal-header">
             <a class="close" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span></a>
-            <img class="img-res" src="assets/img/portfolio-1.jpg" alt="">
+            <img class="img-res" src="https://innocoder.s3.amazonaws.com/img/kbimfooter.png" alt="">
           </div>
           <div class="modal-body">
-            <h4 class="modal-title">Project title</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec commodo finibus tristique. Maecenas dignissim condimentum sem eu tincidunt. Curabitur in dui quis magna vestibulum pulvinar a ut urna. Nam pellentesque mattis urna. Aenean eget lectus sit amet turpis facilisis consectetur quis vel ante. Integer in massa ut nibh ultricies sagittis imperdiet in ante. Nam sed turpis vel ante placerat feugiat ac tempus magna. Nam aliquet ullamcorper dolor non hendrerit.</p>
+            <h4 class="modal-title">Kunwafobim</h4>
+            <p>Kunwafobim Nigeria Enterprises is a grass root merchant of quality cocoa and cashew believing in reputation and integrity through continually delivering of excellence</p>
           </div>
           <div class="modal-footer">
-            <a href="#" class="btn btn-fill">Visit Page</a>
+            <a href="https://kunwafobim.com/" target="_blank" class="btn btn-fill">Visit Page</a>
           </div>
         </div><!-- /.modal-content -->
       </div><!-- /.modal-dialog -->
@@ -361,7 +361,7 @@
         <div class="modal-content">
           <div class="modal-header">
             <a class="close" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span></a>
-            <img class="img-res" src="assets/img/portfolio-2.jpg" alt="">
+            <img class="img-res" src="https://innocoder.s3.amazonaws.com/img/portfolio-2.jpg" alt="">
           </div>
           <div class="modal-body">
             <h4 class="modal-title">Project title</h4>
@@ -379,7 +379,7 @@
         <div class="modal-content">
           <div class="modal-header">
             <a class="close" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span></a>
-            <img class="img-res" src="assets/img/portfolio-3.jpg" alt="">
+            <img class="img-res" src="https://innocoder.s3.amazonaws.com/img/portfolio-3.jpg" alt="">
           </div>
           <div class="modal-body">
             <h4 class="modal-title">Project title</h4>
@@ -397,7 +397,7 @@
         <div class="modal-content">
           <div class="modal-header">
             <a class="close" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span></a>
-            <img class="img-res" src="assets/img/portfolio-4.jpg" alt="">
+            <img class="img-res" src="https://innocoder.s3.amazonaws.com/img/portfolio-4.jpg" alt="">
           </div>
           <div class="modal-body">
             <h4 class="modal-title">Project title</h4>
@@ -415,7 +415,7 @@
         <div class="modal-content">
           <div class="modal-header">
             <a class="close" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span></a>
-            <img class="img-res" src="assets/img/portfolio-5.jpg" alt="">
+            <img class="img-res" src="https://innocoder.s3.amazonaws.com/img/portfolio-5.jpg" alt="">
           </div>
           <div class="modal-body">
             <h4 class="modal-title">Project title</h4>
@@ -433,7 +433,7 @@
         <div class="modal-content">
           <div class="modal-header">
             <a class="close" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span></a>
-            <img class="img-res" src="assets/img/portfolio-6.jpg" alt="">
+            <img class="img-res" src="https://innocoder.s3.amazonaws.com/img/portfolio-6.jpg" alt="">
           </div>
           <div class="modal-body">
             <h4 class="modal-title">Project title</h4>

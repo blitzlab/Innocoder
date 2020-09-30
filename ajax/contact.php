@@ -46,7 +46,7 @@ $mail->isHTML(true);                                  // Set email format to HTM
 $mail->Subject = 'Contact Message';
 
 $message = '<html><body>';
-$message .= '<img src="../assets/img/logo.png" alt="logo" />';
+$message .= '<img src="https://innocoder.s3.amazonaws.com/img/logo.png" alt="logo" />';
 $message .= '<table rules="all" style="border-color: #666;" cellpadding="10">';
 $message .= "<tr style='background: #eee;'><td><strong>Name:</strong> </td><td>" . $name . "</td></tr>";
 $message .= "<tr><td><strong>Email:</strong> </td><td>" . $email . "</td></tr>";
