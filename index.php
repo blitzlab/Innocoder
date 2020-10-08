@@ -113,7 +113,7 @@
                         <img src="https://innocoder.s3.amazonaws.com/img/lines.svg" class="img-lines" alt="lines">
                         <!-- <p>Hello! I'm Alex, a full stuck developer, a Ruby enthusiast, and a guy slighty obsessed for code quality. Also I'm a co-founder of pykod.com. I’m currently available for freelance work. If you have a project that you want to get started or think you need my help with something, then get in touch.</p> -->
                         <p class="about">An innovative developer that finds pleasure in building and designing software solutions that makes life easier and open minds to greater opportunities ahead. From creative brands and websites to intuitive apps and systems, I deliver end-end experiences to help businesses grow.</p>
-                        <a href="http://www.grad.illinois.edu/sites/default/files/pdfs/cvsamples.pdf" class="btn btn-fill" target="_blank" download>Download my cv</a>
+                        <a href="https://innocoder.s3.amazonaws.com/cv/OWOLABI+BADMUS.pdf" class="btn btn-fill" target="_blank" download>Download my cv</a>
                     </div>
                 </div>
             </div>
