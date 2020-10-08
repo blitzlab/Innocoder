@@ -9,9 +9,9 @@
 
     <title>Innocoder</title>
 
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <meta name="keywords" content="">
+    <meta name="description" content="An innovative developer that finds pleasure in building and designing software solutions that makes life easier and open minds to greater opportunities ahead. From creative brands and websites to intuitive apps and systems, I deliver end-end experiences to help businesses grow.">
+    <meta name="author" content="Owolabi Badmus">
+    <meta name="keywords" content="Website, Software, Software Development, Software Developer, Web Developer, Web Development">
 
     <!-- Mobile Specific Metas
     ================================================== -->
