@@ -7,9 +7,9 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Innocoder</title>
+    <title>I N N O C O D E R</title>
 
-    <meta name="description" content="An innovative developer that finds pleasure in building and designing software solutions that makes life easier and open minds to greater opportunities ahead. From creative brands and websites to intuitive apps and systems, I deliver end-end experiences to help businesses grow.">
+    <meta name="description" content="Software Development, Web & Mobile Developer">
     <meta name="author" content="Owolabi Badmus">
     <meta name="keywords" content="Website, Software, Software Development, Software Developer, Web Developer, Web Development">
 
