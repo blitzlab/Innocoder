@@ -603,10 +603,10 @@ img#service-icon {
   /* font-size: 32px; */
 }
 
-.about{
+.about, .skills, .service, .portfolio, .footer{
 font-family: 'David Libre', serif;
 }
 
-.service h4, .service p{
+/* .service h4{
   font-family: 'Montserrat', sans-serif;
-}
+} */

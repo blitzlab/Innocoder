@@ -88,7 +88,7 @@
                     <h1 class="dev-name">Owolabi Badmus</h1>
                     <div class="page-scroll">
                       <p class="job-title">Software Developer</p>
-                      <p class="welcome-note">Are you a business owner planning to build result-driven apps for your business? or do you need a professional developer to join your amazing team?</p>
+                      <p class="welcome-note">Are you a business owner planning to build result-driven apps for your business or do you need a professional developer to join your amazing team?</p>
                         <a href="#contact" class="btn btn-fill ">Hire me</a>
                         <div class="clearfix visible-xxs"></div>
                         <a href="#portfolio" class="btn btn-border">Explore more</a>
@@ -112,7 +112,7 @@
                         <h2 class="about">About</h2>
                         <img src="https://innocoder.s3.amazonaws.com/img/lines.svg" class="img-lines" alt="lines">
                         <!-- <p>Hello! I'm Alex, a full stuck developer, a Ruby enthusiast, and a guy slighty obsessed for code quality. Also I'm a co-founder of pykod.com. I’m currently available for freelance work. If you have a project that you want to get started or think you need my help with something, then get in touch.</p> -->
-                        <p class="about">An Innovative developer that finds pleasure in building solutions that makes life easier and open minds to greater opportunities ahead.</p>
+                        <p class="about">An innovative developer that finds pleasure in building and designing software solutions that makes life easier and open minds to greater opportunities ahead. From creative brands and websites to intuitive apps and systems, I deliver end-end experiences to help businesses grow.</p>
                         <a href="http://www.grad.illinois.edu/sites/default/files/pdfs/cvsamples.pdf" class="btn btn-fill" target="_blank" download>Download my cv</a>
                     </div>
                 </div>
@@ -122,19 +122,57 @@
         <section class="site-section section-skills">
             <div class="container">
                 <div class="text-center">
-                    <h3>My Skills</h3>
+                    <h3 class="skills">Technologies</h3>
                     <img src="https://innocoder.s3.amazonaws.com/img/lines.svg" class="img-lines" alt="lines">
                 </div>
                 <div class="row">
                     <div class="col-md-4">
                         <div class="skill">
-                            <h4>Html/css</h4>
+                            <h4 class="skills">Html/css</h4>
                             <div class="progress">
                                 <div class="progress-bar" role="progressbar" data-transitiongoal="90"></div><!-- /.progress-bar -->
                             </div><!-- /.progress -->
                         </div><!-- /.skill -->
                         <div class="skill">
-                            <h4>Python</h4>
+                            <h4 class="skills">Bootstrap</h4>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" data-transitiongoal="70"></div><!-- /.progress-bar -->
+                            </div><!-- /.progress -->
+                        </div><!-- /.skill -->
+                        <div class="skill">
+                            <h4 class="skills">Material UI</h4>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" data-transitiongoal="70"></div><!-- /.progress-bar -->
+                            </div><!-- /.progress -->
+                        </div><!-- /.skill -->
+                        <div class="skill">
+                            <h4 class="skills">SQL</h4>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" data-transitiongoal="80"></div><!-- /.progress-bar -->
+                            </div><!-- /.progress -->
+                        </div><!-- /.skill -->
+                    </div>
+                    <div class="col-md-4">
+                        <div class="skill">
+                            <h4 class="skills">Javascript</h4>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" data-transitiongoal="82"></div><!-- /.progress-bar -->
+                            </div><!-- /.progress -->
+                        </div><!-- /.skill -->
+                        <div class="skill">
+                            <h4 class="skills">ReactJS</h4>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" data-transitiongoal="75"></div><!-- /.progress-bar -->
+                            </div><!-- /.progress -->
+                        </div><!-- /.skill -->
+                        <div class="skill">
+                            <h4 class="skills">JQuery</h4>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" data-transitiongoal="70"></div><!-- /.progress-bar -->
+                            </div><!-- /.progress -->
+                        </div><!-- /.skill -->
+                        <div class="skill">
+                            <h4 class="skills">NoSQL</h4>
                             <div class="progress">
                                 <div class="progress-bar" role="progressbar" data-transitiongoal="70"></div><!-- /.progress-bar -->
                             </div><!-- /.progress -->
@@ -142,29 +180,27 @@
                     </div>
                     <div class="col-md-4">
                         <div class="skill">
-                            <h4>Javascript</h4>
+                            <h4 class="skills">Python</h4>
                             <div class="progress">
                                 <div class="progress-bar" role="progressbar" data-transitiongoal="82"></div><!-- /.progress-bar -->
                             </div><!-- /.progress -->
                         </div><!-- /.skill -->
                         <div class="skill">
-                            <h4>Django</h4>
+                            <h4 class="skills">NodeJS</h4>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" data-transitiongoal="66"></div><!-- /.progress-bar -->
+                            </div><!-- /.progress -->
+                        </div><!-- /.skill -->
+                        <div class="skill">
+                            <h4 class="skills">PHP</h4>
                             <div class="progress">
                                 <div class="progress-bar" role="progressbar" data-transitiongoal="70"></div><!-- /.progress-bar -->
                             </div><!-- /.progress -->
                         </div><!-- /.skill -->
-                    </div>
-                    <div class="col-md-4">
                         <div class="skill">
-                            <h4>PHP</h4>
+                            <h4 class="skills">WordPress</h4>
                             <div class="progress">
-                                <div class="progress-bar" role="progressbar" data-transitiongoal="82"></div><!-- /.progress-bar -->
-                            </div><!-- /.progress -->
-                        </div><!-- /.skill -->
-                        <div class="skill">
-                            <h4>ReactJS</h4>
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" data-transitiongoal="55"></div><!-- /.progress-bar -->
+                                <div class="progress-bar" role="progressbar" data-transitiongoal="80"></div><!-- /.progress-bar -->
                             </div><!-- /.progress -->
                         </div><!-- /.skill -->
                     </div>
@@ -176,28 +212,28 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h3>What i do</h3>
+                        <h3 class="about">What i do</h3>
                         <img src="https://innocoder.s3.amazonaws.com/img/lines.svg" class="img-lines" alt="lines">
                     </div>
                     <div class="col-sm-4">
                         <div class="service">
                             <img src="https://innocoder.s3.amazonaws.com/img/browser.svg" id="service-icon" alt="Web Developer">
                             <h4>Web Development</h4>
-                            <p>With my experience of multiple technologies, i will choose the best tools to build fast and robust web applications for your business.</p>
+                            <p>With extensive experience of multiple technologies, I will choose the best tools to build a robust web application for your business. The end result? Sophisticated execution and delivery of product people would love.</p>
                         </div><!-- /.service -->
                     </div>
                     <div class="col-sm-4">
                         <div class="service">
                             <img src="https://innocoder.s3.amazonaws.com/img/mobile.svg" id="service-icon" alt="Mobile Developer">
                             <h4>Mobile Development</h4>
-                            <p>We can help turn your shallow idea into a full-fledged mobile application with cross-platform compatibility features.</p>
+                            <p>As an expert, your ideas and business challenges are analyzed and then a scalable full-fledged mobile application is created with cross-platform compatibility features. </p>
                         </div><!-- /.service -->
                     </div>
                     <div class="col-sm-4">
                         <div class="service">
                             <img src="https://innocoder.s3.amazonaws.com/img/consultation.svg" id="service-icon" alt="Coding">
                             <h4>Consultancy</h4>
-                            <p>As well as providing development services, I can also help you decide strategic roadmaps via consultancy services.</p>
+                            <p>Asides providing development services, I can also help you create flexible strategic software roadmaps via consultancy services.</p>
                         </div><!-- /.service -->
                     </div>
                 </div>
@@ -207,7 +243,7 @@
         <section id="portfolio" class="site-section section-portfolio">
             <div class="container">
                 <div class="text-center">
-                    <h3>My recent Works</h3>
+                    <h3 class="portfolio">My recent Works</h3>
                     <img src="https://innocoder.s3.amazonaws.com/img/lines.svg" class="img-lines" alt="lines">
                 </div>
                 <div class="row">
@@ -215,7 +251,7 @@
                         <div class="portfolio-item">
                             <img src="https://innocoder.s3.amazonaws.com/img/kbimhome.png" class="img-res" alt="">
                             <div class="portfolio-item-info">
-                                <h4>Kunwafobim</h4>
+                                <h4 class="portfolio">Kunwafobim</h4>
                                 <a href="https://kunwafobim.com/" target="-_blank" data-toggle="modal" data-target="#portfolioItem1"><span class="glyphicon glyphicon-eye-open"></span></a>
                                 <a href="https://kunwafobim.com/" target="_blank"><span class="glyphicon glyphicon-link"></span></a>
                             </div><!-- /.portfolio-item-info -->
@@ -223,11 +259,11 @@
                     </div>
                     <div class="col-md-4 col-xs-6">
                         <div class="portfolio-item">
-                            <img src="https://innocoder.s3.amazonaws.com/img/portfolio-2.jpg" class="img-res" alt="">
+                            <img src="https://innocoder.s3.amazonaws.com/img/simplerefers.png" class="img-res" alt="">
                             <div class="portfolio-item-info">
-                                <h4>Project Title</h4>
-                                <a href="#" data-toggle="modal" data-target="#portfolioItem2"><span class="glyphicon glyphicon-eye-open"></span></a>
-                                <a href="#"><span class="glyphicon glyphicon-link"></span></a>
+                                <h4 class="portfolio">Simplerefers</h4>
+                                <a href="https://www.simplerefers.com/" target="-_blank" data-toggle="modal" data-target="#portfolioItem2"><span class="glyphicon glyphicon-eye-open"></span></a>
+                                <a href="https://www.simplerefers.com/" target="-_blank"><span class="glyphicon glyphicon-link"></span></a>
                             </div><!-- /.portfolio-item-info -->
                         </div><!-- /.portfolio-item -->
                     </div>
@@ -279,16 +315,16 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-4 col-xs-12">
-                        <p class="counter start" data-to="3" data-speed="2000">0</p>
-                        <h4>Years Experience</h4>
+                        <p class="counter start portfolio" data-to="3" data-speed="2000">0</p>
+                        <h4 class="portfolio">Years Experience</h4>
                     </div>
                     <div class="col-sm-4 col-xs-12">
-                        <p class="counter start" data-to="10" data-speed="2000">0</p>
-                        <h4>Projects Delivered</h4>
+                        <p class="counter start portfolio" data-to="10" data-speed="2000">0</p>
+                        <h4 class="portfolio">Projects Delivered</h4>
                     </div>
                     <div class="col-sm-4 col-xs-12">
-                        <p id="infinity" class="counter" data-from="0" data-to="1" data-speed="1000">0</p>
-                        <h4>Seconds on this site!<br>What are you waiting for?</h4>
+                        <p id="infinity" class="counter portfolio" data-from="0" data-to="1" data-speed="1000">0</p>
+                        <h4 class="portfolio">Seconds on this site!<br>What are you waiting for?</h4>
                     </div>
                 </div>
             </div>
@@ -297,7 +333,7 @@
         <section id="contact" class="site-section section-form text-center">
             <div class="container">
 
-                <h3>Contact</h3>
+                <h3 class="portfolio">Contact</h3>
                 <img src="https://innocoder.s3.amazonaws.com/img/lines.svg" class="img-lines" alt="lines">
                 <form id="contact">
                     <div class="row">
@@ -311,7 +347,7 @@
                             <textarea name="message" id="mesaage" class="form-control" placeholder="Message" required></textarea>
                         </div>
                     </div>
-                    <button class="btn btn-border" type="submit">Send Message <span class="glyphicon glyphicon-send"></span></button>
+                    <button class="btn btn-border portfolio" type="submit">Send Message <span class="glyphicon glyphicon-send"></span></button>
                 </form>
             </div>
         </section><!-- /.section-form -->
@@ -327,7 +363,7 @@
                     <a class="icon gplus-bg" href="#"><i class="icon-linkedin"></i></a>
                     <a class="icon linkedin-bg" href="#"><i class="icon-gplus"></i></a>
                 </div>
-                <div class="col-sm-4 col-sm-offset-0 col-xs-6 col-xs-offset-3"><p class="copyright">2020. All Rights Reserved</p></div>
+                <div class="col-sm-4 col-sm-offset-0 col-xs-6 col-xs-offset-3"><p class="copyright footer">2020. All Rights Reserved</p></div>
                 <div class="col-sm-4 col-xs-3">
                     <div class="text-right page-scroll">
                         <a class="icon icon-up-bg" href="#hero"><i class="icon-up"></i></a>
@@ -346,8 +382,8 @@
             <img class="img-res" src="https://innocoder.s3.amazonaws.com/img/kbimfooter.png" alt="">
           </div>
           <div class="modal-body">
-            <h4 class="modal-title">Kunwafobim</h4>
-            <p>Kunwafobim Nigeria Enterprises is a grass root merchant of quality cocoa and cashew believing in reputation and integrity through continually delivering of excellence</p>
+            <h4 class="modal-title portfolio">Kunwafobim</h4>
+            <p class="portfolio">Kunwafobim Nigeria Enterprises is a grass root merchant of quality cocoa and cashew believing in reputation and integrity through continually delivering of excellence</p>
           </div>
           <div class="modal-footer">
             <a href="https://kunwafobim.com/" target="_blank" class="btn btn-fill">Visit Page</a>
@@ -361,14 +397,14 @@
         <div class="modal-content">
           <div class="modal-header">
             <a class="close" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span></a>
-            <img class="img-res" src="https://innocoder.s3.amazonaws.com/img/portfolio-2.jpg" alt="">
+            <img class="img-res" src="https://innocoder.s3.amazonaws.com/img/simplerefers2.png" alt="">
           </div>
           <div class="modal-body">
-            <h4 class="modal-title">Project title</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec commodo finibus tristique. Maecenas dignissim condimentum sem eu tincidunt. Curabitur in dui quis magna vestibulum pulvinar a ut urna. Nam pellentesque mattis urna. Aenean eget lectus sit amet turpis facilisis consectetur quis vel ante. Integer in massa ut nibh ultricies sagittis imperdiet in ante. Nam sed turpis vel ante placerat feugiat ac tempus magna. Nam aliquet ullamcorper dolor non hendrerit.</p>
+            <h4 class="modal-title portfolio">Simplerefers</h4>
+            <p class="portfolio">A new innovating and internet networking site, where you will be able to earn simply by registering and perform some activities including referring people to join through a unique referral link.</p>
           </div>
           <div class="modal-footer">
-            <a href="#" class="btn btn-fill">Visit Page</a>
+            <a href="https://www.simplerefers.com/" target="_blank" class="btn btn-fill">Visit Page</a>
           </div>
         </div><!-- /.modal-content -->
       </div><!-- /.modal-dialog -->
