@@ -7,9 +7,9 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>I N N O C O D E R</title>
+    <title>I N N O C O D E R - Software, Web & Mobile Developer</title>
 
-    <meta name="description" content="Software Development, Web & Mobile Developer">
+    <meta name="description" content="From creative brands and websites to intuitive apps and systems, I deliver end-end experiences to help businesses grow.">
     <meta name="author" content="Owolabi Badmus">
     <meta name="keywords" content="Website, Software, Software Development, Software Developer, Web Developer, Web Development">
 
@@ -419,7 +419,7 @@
           </div>
           <div class="modal-body">
             <h4 class="modal-title">Project title</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec commodo finibus tristique. Maecenas dignissim condimentum sem eu tincidunt. Curabitur in dui quis magna vestibulum pulvinar a ut urna. Nam pellentesque mattis urna. Aenean eget lectus sit amet turpis facilisis consectetur quis vel ante. Integer in massa ut nibh ultricies sagittis imperdiet in ante. Nam sed turpis vel ante placerat feugiat ac tempus magna. Nam aliquet ullamcorper dolor non hendrerit.</p>
+            <p>Project description</p>
           </div>
           <div class="modal-footer">
             <a href="#" class="btn btn-fill">Visit Page</a>
@@ -437,7 +437,7 @@
           </div>
           <div class="modal-body">
             <h4 class="modal-title">Project title</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec commodo finibus tristique. Maecenas dignissim condimentum sem eu tincidunt. Curabitur in dui quis magna vestibulum pulvinar a ut urna. Nam pellentesque mattis urna. Aenean eget lectus sit amet turpis facilisis consectetur quis vel ante. Integer in massa ut nibh ultricies sagittis imperdiet in ante. Nam sed turpis vel ante placerat feugiat ac tempus magna. Nam aliquet ullamcorper dolor non hendrerit.</p>
+            <p>Project description</p>
           </div>
           <div class="modal-footer">
             <a href="#" class="btn btn-fill">Visit Page</a>
@@ -455,7 +455,7 @@
           </div>
           <div class="modal-body">
             <h4 class="modal-title">Project title</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec commodo finibus tristique. Maecenas dignissim condimentum sem eu tincidunt. Curabitur in dui quis magna vestibulum pulvinar a ut urna. Nam pellentesque mattis urna. Aenean eget lectus sit amet turpis facilisis consectetur quis vel ante. Integer in massa ut nibh ultricies sagittis imperdiet in ante. Nam sed turpis vel ante placerat feugiat ac tempus magna. Nam aliquet ullamcorper dolor non hendrerit.</p>
+            <p>Project description</p>
           </div>
           <div class="modal-footer">
             <a href="#" class="btn btn-fill">Visit Page</a>
@@ -473,7 +473,7 @@
           </div>
           <div class="modal-body">
             <h4 class="modal-title">Project title</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec commodo finibus tristique. Maecenas dignissim condimentum sem eu tincidunt. Curabitur in dui quis magna vestibulum pulvinar a ut urna. Nam pellentesque mattis urna. Aenean eget lectus sit amet turpis facilisis consectetur quis vel ante. Integer in massa ut nibh ultricies sagittis imperdiet in ante. Nam sed turpis vel ante placerat feugiat ac tempus magna. Nam aliquet ullamcorper dolor non hendrerit.</p>
+            <p>Project description</p>
           </div>
           <div class="modal-footer">
             <a href="#" class="btn btn-fill">Visit Page</a>
