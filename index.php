@@ -112,8 +112,8 @@
                         <h2 class="about">About</h2>
                         <img src="https://innocoder.s3.amazonaws.com/img/lines.svg" class="img-lines" alt="lines">
                         <!-- <p>Hello! I'm Alex, a full stuck developer, a Ruby enthusiast, and a guy slighty obsessed for code quality. Also I'm a co-founder of pykod.com. I’m currently available for freelance work. If you have a project that you want to get started or think you need my help with something, then get in touch.</p> -->
-                        <p class="about">An innovative developer that finds pleasure in building and designing software solutions that makes life easier and open minds to greater opportunities ahead. From creative brands and websites to intuitive apps and systems, I deliver end-end experiences to help businesses grow.</p>
-                        <a href="https://innocoder.s3.amazonaws.com/cv/OWOLABI+BADMUS.pdf" class="btn btn-fill" target="_blank" download>Download my cv</a>
+                        <p class="about">I'm an innovative developer that finds pleasure in building and designing software solutions that make life easier and open minds to better opportunities ahead. From creative brands and websites to intuitive apps and systems, I deliver end-end experiences to help businesses grow.</p>
+                        <a href="https://innocoder.s3.amazonaws.com/cv/Owolabi_Badmus_Resume.pdf" class="btn btn-fill" target="_blank" download>Download my cv</a>
                     </div>
                 </div>
             </div>
@@ -219,21 +219,21 @@
                         <div class="service">
                             <img src="https://innocoder.s3.amazonaws.com/img/browser.svg" id="service-icon" alt="Web Developer">
                             <h4>Web Development</h4>
-                            <p>With extensive experience of multiple technologies, I will choose the best tools to build a robust web application for your business. The end result? Sophisticated execution and delivery of product people would love.</p>
+                            <p>With extensive experience in multiple technologies, I will choose the best tools to build a robust web application for your business. The result? Sophisticated execution and delivery of product people would love.</p>
                         </div><!-- /.service -->
                     </div>
                     <div class="col-sm-4">
                         <div class="service">
                             <img src="https://innocoder.s3.amazonaws.com/img/mobile.svg" id="service-icon" alt="Mobile Developer">
                             <h4>Mobile Development</h4>
-                            <p>As an expert, your ideas and business challenges are analyzed and then a scalable full-fledged mobile application is created with cross-platform compatibility features. </p>
+                            <p>Your ideas and business challenges are carefully analyzed. Then we craft out cross-platform professional mobile apps that meet your business requirements to strive.</p>
                         </div><!-- /.service -->
                     </div>
                     <div class="col-sm-4">
                         <div class="service">
                             <img src="https://innocoder.s3.amazonaws.com/img/consultation.svg" id="service-icon" alt="Coding">
                             <h4>Consultancy</h4>
-                            <p>Asides providing development services, I can also help you create flexible strategic software roadmaps via consultancy services.</p>
+                            <p>Asides from building software, we can also help you transform your ideas into a realizable plan through discussion and technical advice.</p>
                         </div><!-- /.service -->
                     </div>
                 </div>
@@ -335,6 +335,14 @@
 
                 <h3 class="portfolio">Contact</h3>
                 <img src="https://innocoder.s3.amazonaws.com/img/lines.svg" class="img-lines" alt="lines">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>skjdfehdkuxhjsdkx</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>skjdfehdkuxhjsdkx</p>
+                    </div>
+                </div>
                 <form id="contact">
                     <div class="row">
                         <div class="col-sm-6">
