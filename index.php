@@ -24,7 +24,7 @@
     <!-- Favicon
     ================================================== -->
     <!-- <link rel="apple-touch-icon" sizes="180x180" href="https://innocoder.s3.amazonaws.com/img/apple-touch-icon.png"> -->
-    <link rel="icon" type="image/png" sizes="16x16" href="https://innocoder.s3.amazonaws.com/img/favicon.png">
+    <link rel="shortcut icon" type="image/png" sizes="16x16" href="https://innocoder.s3.amazonaws.com/img/favicon.png">
 
     <!-- Stylesheets
     ================================================== -->
@@ -43,6 +43,7 @@
     <![endif]-->
 
     <link href="https://fonts.googleapis.com/css2?family=David+Libre&family=Montserrat:wght@300&display=swap" rel="stylesheet">
+    <meta name="google-site-verification" content="ATrwgb_HY0wd1x51hvs5NC2VqesJDPquZBTKWF2ABZs" />
 
 </head>
 <body>
@@ -335,12 +336,12 @@
 
                 <h3 class="portfolio">Contact</h3>
                 <img src="https://innocoder.s3.amazonaws.com/img/lines.svg" class="img-lines" alt="lines">
-                <div class="row">
+                <div class="row contact">
                     <div class="col-sm-6">
-                        <p>skjdfehdkuxhjsdkx</p>
+                        <a href="tel:+2348141531371"><i class="glyphicon glyphicon-earphone"></i>&nbsp; Speak with us</a>
                     </div>
                     <div class="col-sm-6">
-                        <p>skjdfehdkuxhjsdkx</p>
+                    <a href="https://wa.me/2348154955575?text=I have a project"><i class="glyphicon glyphicon-phone"></i> &nbsp; Chat with us</a>
                     </div>
                 </div>
                 <form id="contact">

@@ -607,6 +607,7 @@ img#service-icon {
 font-family: 'David Libre', serif;
 }
 
-/* .service h4{
-  font-family: 'Montserrat', sans-serif;
-} */
+.contact{
+  font-family: 'David Libre', sans-serif;
+  margin-bottom: 20px;
+}
