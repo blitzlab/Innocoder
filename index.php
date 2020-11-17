@@ -113,8 +113,8 @@
                         <h2 class="about">About</h2>
                         <img src="https://innocoder.s3.amazonaws.com/img/lines.svg" class="img-lines" alt="lines">
                         <!-- <p>Hello! I'm Alex, a full stuck developer, a Ruby enthusiast, and a guy slighty obsessed for code quality. Also I'm a co-founder of pykod.com. I’m currently available for freelance work. If you have a project that you want to get started or think you need my help with something, then get in touch.</p> -->
-                        <p class="about">I'm an innovative developer that finds pleasure in building and designing software solutions that make life easier and open minds to better opportunities ahead. From creative brands and websites to intuitive apps and systems, I deliver end-end experiences to help businesses grow.</p>
-                        <a href="https://innocoder.s3.amazonaws.com/cv/Owolabi_Badmus_Resume.pdf" class="btn btn-fill" target="_blank" download>Download my cv</a>
+                        <p class="about">Performance-driven and motivated Full Stack Developer with 2+ years of extensive experience in participating in all phases of software development. Adept at managing and supervising other employees and determined to achieve extraordinary results. Possess strong attention to detail, well-developed time management skills, and the ability to complete all projects within schedule and promptly.</p>
+                        <a href="https://innocoder.s3.amazonaws.com/cv/Owolabi_Badmus_T.Resume.pdf" class="btn btn-fill" target="_blank" download>Download my cv</a>
                     </div>
                 </div>
             </div>
